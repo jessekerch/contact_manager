@@ -19,12 +19,5 @@
     "email": "ph@example.com",
     "phone_number": "54321098761",
     "tags": "one piece"
-  },
-  {
-    "full_name": "Victor New",
-    "phone_number": "2333-4-234-234",
-    "email": "victor@okitstheplace.com",
-    "tags": "work,friend,soccer",
-    "id": 4
   }
 ]
